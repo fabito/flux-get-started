@@ -1,0 +1,1 @@
+{"jobID":"a4eaffee-b51a-58a7-f643-bd8be8ef039f","spec":{"type":"policy","cause":{"Message":"","User":"fabito \u003cfuechi@ciandt.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
